@@ -13,3 +13,5 @@ Right Arrow = moves rigth
 Left Arrow = moves left
 Up Arrow = jumps
 Spacebar = shoots bullets
+
+!!!!! HAVE FUN !!!!!

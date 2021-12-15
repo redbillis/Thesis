@@ -3,7 +3,8 @@ A fight to the death!!
 A python based game with pygame.
 
 Before playing:
-Unzip the "Images.7z" file as an "Images" folder and have it in the same folder with the rest of the files.
+If you are using master branch unzip the "Images.7z" file as an "Images" folder and have it in the same folder with the rest of the files.
+Otherwise you are ok!!
 
 
 !!BUTTONS!!
